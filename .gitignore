@@ -1,0 +1,33 @@
+# Gradle
+.gradle/
+build/
+
+# Maven
+target/
+!.mvn/wrapper/mvnw
+!.mvn/wrapper/mvnw.cmd
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Environment files
+application.properties
+application.yml
+
+# Temp files
+*.tmp
+*.swp
+*.swo
+
+# Gradle Wrapper
+gradle/wrapper/gradle-wrapper.properties
+gradle/wrapper/gradle-wrapper.jar
+
